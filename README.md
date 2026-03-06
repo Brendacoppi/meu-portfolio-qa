@@ -1,4 +1,5 @@
 Portfólio de QA - Brenda
+
 Seja bem-vindo(a) ao meu portfólio! 
 
 📂 Organização do Repositório
