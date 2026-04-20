@@ -10,6 +10,6 @@ testes-bdd/ : Cenários de testes escritos em Gherkin:
 * Organização de fluxo de trabalho (QA).
 
 🛠️ Habilidades Técnicas
-Escrita de casos de teste (BDD/Gherkin)
-Testes Manuais e Funcionais
-Metologias Ágeis (Kanban)
+* Escrita de casos de teste (BDD/Gherkin)
+* Testes Manuais e Funcionais
+* Metologias Ágeis (Kanban)
